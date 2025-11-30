@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hallo, you
 
-<!--
-**Kroterich/kroterich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... myself
+- 🌱 I’m currently learning ... Coding with AI
+- 👯 I’m looking to collaborate on ... Roblox Games
+- 🤔 I’m looking for help with ... Anything Roblox development regarded
+- 💬 Ask me about ... my sexuality
+- 
+I'm a 🇩🇪 guy. I work on Roblox and I'm eager to know more about your projects and how you can help me make better games. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I **love** Aye Eye.☝️  Do you use Chatgpt 👾👾? [^1]
+
+[^1]: -Boris Johnson 
+
+## socials
+Add my Discord *Kroterich*
+
